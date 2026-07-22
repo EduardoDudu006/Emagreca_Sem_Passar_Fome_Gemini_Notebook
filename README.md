@@ -118,16 +118,3 @@ Cole o prompt acima no chat do NotebookLM e dê o comando!]*"
 #### 🔄 Prompt para Ajuste de Substituições Alimentares:
 ```text
 Com base no meu plano alimentar gerado, substitua o [Ingrediente A] por outro alimento típico nordestino que possua equivalência nutricional próxima segundo a tabela TACO.
-
-#### 🔄 Prompt para Progressão de Carga nos Treinos:
-```text
-Atue como meu personal trainer. Como posso aplicar progressão de carga no treino [Nome do Treino] após 4 semanas de adaptação? Liste os parâmetros de ajuste (volume, pausa, peso).
-
-#### 🛠️ Tecnologias Utilizadas
-### NotebookLM - Análise e sintetização de fontes.
-
-### GitHub - Documentação e portfólio.
-
-### Markdown - Formatação do material.
-
-### Projeto desenvolvido como parte do desafio prático da DIO.
